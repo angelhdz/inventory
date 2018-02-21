@@ -1,0 +1,10 @@
+
+{
+  "products": [
+    {"id": "cookie", "price": "3.0", "category": "candy"},
+    {"id": "m&m", "price": "2.0", "category": "candy"},
+    {"id": "smoothie", "price": "4.0", "category": "beverage"},
+    {"id": "coffee", "price": "4.0", "category": "beverage"},
+    {"id": "pasta", "price": "70.5", "category": "food"}
+  ]
+}
