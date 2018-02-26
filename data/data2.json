@@ -1,0 +1,9 @@
+{
+    "secciones": [
+      {"id": "home", "title": "Home", "content": "<h1>HOME</h1><hr/>Esta es la caca pagina de inicio. Woo hoo!"},
+
+      {"id": "about", "title": "About", "content": "<h1>ABOUT</h1><hr/>Nosotros somos una empresa cotizada de desarrollo web bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla <img src=\"http://www.dowellmgmt.com/wp-content/uploads/2016/10/iStock_000010650974Medium.jpg\" width=\"50%\" height=\"50%\"/>"},
+
+      {"id": "contact", "title": "Contact", "content": "<h2>Contáctanos!</h2><p>WhatsApp: 1-888-666-8888</p><p>Facebook: <img class=\"icon\" src=\"https://image.flaticon.com/icons/svg/124/124010.svg\"/>/CacaPR</p><p>Phone: <img class=\"icon\" height=\"16\" src=\"https://image.flaticon.com/icons/svg/17/17216.svg\"/>1-888-666-8888</p><p>Email: somoslaostia@gmail.com</p>"}
+    ]
+}
